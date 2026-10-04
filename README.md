@@ -2,7 +2,7 @@
 
 An interactive dashboard for building, stress-testing and validating a portfolio of US or Indian assets. Pick the assets, and it works out how to combine them, how risky the mix is, how it might behave over the next year, and whether the optimized weights hold up on data they were never fitted to.
 
-**Live demo:**https://your-app-link.streamlit.app
+**Live demo:**https://quant-portfolio-intelligence.streamlit.app/
 
 ![Dashboard overview](docs/overview.png)
 
